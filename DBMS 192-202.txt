@@ -1,0 +1,6 @@
+Already Explained: 191,192, 194, 197, 198, 199, 200, 202
+Grammer: 193, 195
+Explained by me: 193
+Need to Check: 196(Where are other two dependencies)
+Options: 197
+Doubt: 201
